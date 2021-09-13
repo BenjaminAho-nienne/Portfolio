@@ -644,6 +644,10 @@ Services
     font-size: 44px;
     line-height: 70px;
 }
+.service-icon .fab {
+    font-size: 44px;
+    line-height: 70px;
+}
 .single-service:hover .service-icon .fa {
     -webkit-transform: rotateY(360deg);
     -moz-transform: rotateY(360deg);
@@ -1192,3 +1196,5 @@ body {
 	width: 100%;
 	height: 100%;
   }
+
+  /* FIN PARTICLE */

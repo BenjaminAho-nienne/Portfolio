@@ -2885,7 +2885,15 @@ readers do not read off random characters that represent icons */
 		height: 56px ;
 		width:70px;
 }
-
+.icon-figma{
+	height:56px;
+	width:70px;
+}
+#icon-figma
+{
+	height:56px;
+	width:70px;
+}
 .fa-hubspot:before {
 	content: "\f3b2";
 }
@@ -3124,6 +3132,14 @@ readers do not read off random characters that represent icons */
 		height: 56px ;
 		width:70px;
 }
+
+
+
+/* .icon-figma {
+	content: url('./creation-de-sites-web.svg');
+		height: 56px ;
+		width:70px;
+} */
 .icon-photo {
 	content: url('https://image.flaticon.com/icons/svg/149/149641.svg');
 		height: 56px ;
