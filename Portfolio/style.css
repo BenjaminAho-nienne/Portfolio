@@ -675,6 +675,36 @@ Services
 /*----------------------------------------
 Work
 ----------------------------------------*/
+.section-work{
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media (min-width: 1200px){
+	.section-work{
+		width:1170px;
+	}
+}
+@media (min-width: 992px){
+	.section-work{
+		width:970px;
+	}
+}
+@media (min-width: 768px){
+	.section-work{
+		width:750px;
+	}
+}
+@media only screen and (max-device-width: 767px) {
+	.section-work{
+		width:90%;
+	}
+	.single-work{
+		margin-top: 50%;
+	}
+ }
+
 #work-list {
     margin-bottom: 40px;
 }
